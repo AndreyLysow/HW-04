@@ -3,7 +3,7 @@
 ## by Lysov Andrey
 ---
 ## How to open/launch
-## Еhis Web project is deployed on the website http://fww.webtm.ru/index.html
+## Еhis Web project is deployed on the website http://e-fww.ru or https://andreylysow.github.io/HW-04/
 ---
 ## Technologies used:
 * HTML
