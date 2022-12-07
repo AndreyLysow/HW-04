@@ -1,27 +1,30 @@
 main {
-  width: 100px;
-  height: 6000x;
+  width: 200px;
+  height: 10000x;
   border-radius: 3%;
   background:#c0c0c0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #trafficLightRed {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     background: black;
   }
 
   #trafficLightYellow {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     background: black;
   }
 
   #trafficLightGreen {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     background: black;
   }
