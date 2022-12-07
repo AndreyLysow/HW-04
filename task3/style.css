@@ -7,6 +7,24 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+button {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  padding: .5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #3387fd #000 #2692de;
+  border-radius: 6px;
+  background: linear-gradient(#2d06d8, #166be3) #8393b8;
+  transition: 0.2s;
+} 
+button:hover { background: linear-gradient(#6592bc, #4f79c1) #3249f3; }
+button:active { background: linear-gradient(#6592bc, #002df5) #35358c; }
+
 a.button {
   display: inline-block;
   font-family: arial,sans-serif;
